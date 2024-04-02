@@ -1,3 +1,8 @@
 # Backups
 *.png~
 *.kra~
+
+# Caches
+.obsidian/
+.vs/
+.vscode/
