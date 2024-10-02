@@ -1,8 +1,10 @@
 {
+    "showTimers": true,
     "data": [
         {
             "eventName": "testEvent",
-            "timestamp": 1728158400
+            "showTimerTimestamp": 0,
+            "eventStartTimestamp": 1728158400
         }
     ]
 }
