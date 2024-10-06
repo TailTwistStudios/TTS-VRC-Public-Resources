@@ -8,10 +8,20 @@
         {
             "imageName": "Image2.png",
             "linkDestination": "https://vrchat.com/home/world/wrld_6f5e49b9-6134-4c87-b873-2a09ebd1fec2",
-            "imageAltText": "Come visit Abstract Backyard Glow in VRChat!"
+            "imageAltText": "Come visit Forgotten Omni in VRChat!"
         },
         {
             "imageName": "Image3.png",
+            "linkDestination": "https://www.patreon.com/Aetous",
+            "imageAltText": "Please support me..."
+        },
+        {
+            "imageName": "Image4.png",
+            "linkDestination": "https://vrchat.com/home/world/wrld_6f5e49b9-6134-4c87-b873-2a09ebd1fec2",
+            "imageAltText": "Come visit Abstract Backyard Glow in VRChat!"
+        },
+        {
+            "imageName": "Image5.png",
             "linkDestination": "https://vrchat.com/home/world/wrld_6f5e49b9-6134-4c87-b873-2a09ebd1fec2",
             "imageAltText": "Come visit Abstract Backyard Glow in VRChat!"
         }
